@@ -35,4 +35,8 @@ Run the script
 
 - [@4r1ss](https://github.com/4r1ss)
 
+## Example Image
+
+![App Screenshot](https://github.com/4r1ss/Encryption-Algorithm/blob/main/example.png)
+
 
