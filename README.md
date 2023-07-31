@@ -35,7 +35,7 @@ Run the script
 
 - [@4r1ss](https://github.com/4r1ss)
 
-## Example Image
+## Flow Chart
 
 ![App Screenshot](https://github.com/4r1ss/Encryption-Algorithm/blob/main/chart.svg)
 
