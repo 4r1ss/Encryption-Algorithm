@@ -37,6 +37,6 @@ Run the script
 
 ## Example Image
 
-![App Screenshot](https://github.com/4r1ss/Encryption-Algorithm/blob/main/flowchart.png)
+![App Screenshot](https://github.com/4r1ss/Encryption-Algorithm/blob/main/chart.jpeg)
 
 
